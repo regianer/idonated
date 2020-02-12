@@ -1,0 +1,26 @@
+{
+  "name": "idonated",
+  "version": "1.0.0",
+  "description": "Local para centralizar e ajudar pessoas a realizar as Doações a encontrarem as  PF, ongs etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regianer/idonated.git"
+  },
+  "keywords": [
+    "marialuizaechloe2014"
+  ],
+  "author": "Regiane Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regianer/idonated/issues"
+  },
+  "homepage": "https://github.com/regianer/idonated#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
